@@ -1,0 +1,10 @@
+.yarn
+build/
+node_modules
+
+# Can be uncommented later when needed
+.env.*
+.env
+!.env.example
+.idea/
+generated-typechains
